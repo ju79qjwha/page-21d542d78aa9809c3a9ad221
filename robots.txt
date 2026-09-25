@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.miaotk.cn/sitemap.xml
